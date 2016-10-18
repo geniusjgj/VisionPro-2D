@@ -1,0 +1,44 @@
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.exe.config
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.exe
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.pdb
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.xml
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbprojResolveAssemblyReference.cache
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.SampleTwoDSymbolVerify.frmTwoDSymbolVerify.resources
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbproj.GenerateResource.Cache
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.exe
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.xml
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.pdb
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\bin\x64\Debug\uEyeDotNet.dll
+C:\Program Files\Cognex\VisionPro\samples\Programming\VisionTools\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.frmCameraView.resources
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.exe.config
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.exe
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.xml
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.pdb
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.exe
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.pdb
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.xml
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbprojResolveAssemblyReference.cache
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.frmCameraView.resources
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbproj.GenerateResource.Cache
+C:\workplace\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.exe.config
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.exe
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.xml
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.pdb
+C:\workplace\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.exe
+C:\workplace\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.pdb
+C:\workplace\TwoDSymbolVerify\VB.NET\bin\x64\Debug\TwoDSymbolVerify.xml
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbprojResolveAssemblyReference.cache
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.frmCameraView.resources
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbproj.GenerateResource.Cache
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\AxInterop.CognexDisplay.dll
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbproj.ResolveComReference.cache
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.frmTwoDSymbolVerify.resources
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\bin\x64\Debug\Cognex.VisionPro.Interop.DisplayCtl.dll
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\bin\x64\Debug\AxInterop.CognexDisplay.dll
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.Resources.resources
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\AxInterop.CognexDisplay.dll
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.vbproj.ResolveComReference.cache
+C:\workplace\TwoDSymbolVerify\VB.NET\bin\x64\Debug\Cognex.VisionPro.Interop.DisplayCtl.dll
+C:\workplace\TwoDSymbolVerify\VB.NET\bin\x64\Debug\AxInterop.CognexDisplay.dll
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.frmTwoDSymbolVerify.resources
+C:\workplace\TwoDSymbolVerify\VB.NET\obj\x64\Debug\TwoDSymbolVerify.Resources.resources

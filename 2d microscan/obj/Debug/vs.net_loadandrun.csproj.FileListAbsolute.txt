@@ -1,0 +1,12 @@
+C:\Users\vlm\Desktop\LoadAndRun\obj\Debug\vs.net_loadandrun.csproj.ResolveComReference.cache
+C:\Users\PCx86RTKit\PCx86RTKit\debug\LoadAndRun.exe
+C:\Users\PCx86RTKit\PCx86RTKit\debug\LoadAndRun.pdb
+C:\Users\vlm\Desktop\LoadAndRun\obj\Debug\vs.net_loadandrun.csprojResolveAssemblyReference.cache
+C:\Users\vlm\Desktop\LoadAndRun\obj\Debug\LoadAndRun.frmMain.resources
+C:\Users\vlm\Desktop\LoadAndRun\obj\Debug\LoadAndRun.MyResources.resources
+C:\Users\vlm\Desktop\LoadAndRun\obj\Debug\vs.net_loadandrun.csproj.GenerateResource.Cache
+C:\Users\vlm\Desktop\LoadAndRun\obj\Debug\LoadAndRun.exe
+C:\Users\vlm\Desktop\LoadAndRun\obj\Debug\LoadAndRun.pdb
+C:\Users\r.jin\Desktop\LoadAndRun\obj\Debug\vs.net_loadandrun.csproj.ResolveComReference.cache
+C:\Users\r.jin\Desktop\LoadAndRun\obj\Debug\LoadAndRun.exe
+C:\Users\r.jin\Desktop\LoadAndRun\obj\Debug\LoadAndRun.pdb

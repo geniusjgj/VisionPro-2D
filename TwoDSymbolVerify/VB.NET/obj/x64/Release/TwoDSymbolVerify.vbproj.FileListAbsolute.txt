@@ -1,0 +1,4 @@
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\bin\x64\Release\TwoDSymbolVerify.exe.config
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Release\TwoDSymbolVerify.frmCameraView.resources
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Release\TwoDSymbolVerify.SampleTwoDSymbolVerify.frmTwoDSymbolVerify.resources
+C:\Users\r.jin\Desktop\TwoDSymbolVerify\VB.NET\obj\x64\Release\TwoDSymbolVerify.vbproj.GenerateResource.Cache
